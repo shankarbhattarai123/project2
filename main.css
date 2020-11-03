@@ -31,5 +31,15 @@ ul li a:hover
     text-decoration: none;
     color: black;
 }
-
-
+.about
+{
+    
+    background-color: whitesmoke;
+    height: 900px;
+}
+.extra
+{
+    margin-left:650px;
+    background-color:lightgreen;
+    height: 300px;
+}
