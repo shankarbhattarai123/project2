@@ -43,3 +43,65 @@ ul li a:hover
     background-color:lightgreen;
     height: 300px;
 }
+.contact
+{
+    height: 530px;
+    width: 100%;
+    background-color:#58665b;
+}
+.box
+{
+    background-color:#d8e3d9;
+    width:550px;
+    height: 70px;
+    border-radius: 30px;
+    margin: 10px;
+    margin-right: 50px;
+    font-size: 20px;
+    border: none;
+}
+.namebox
+{
+    margin-top: 30px;
+}
+.messagebox
+{
+    background-color:#d8e3d9;
+    color: black;
+    width:550px;
+    height: 90px;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    border: none;
+}
+.submitbox
+{
+    margin-top: 30px;
+    margin-left: 180px;
+    height: 50px;
+    width: 250px;
+    border-radius: 30px;
+    background-color:#4ef25c;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    border: none;
+}
+.contactform
+{
+    float: right;
+    
+}
+.footer>.row
+{
+    height: 250px;
+}
+
+/*styling and css for ABOUT page*/
+.about-us
+{
+    height: 150px;
+    background-color: lightgreen;
+}
